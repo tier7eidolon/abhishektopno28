@@ -2,7 +2,7 @@
 
 Building the engineering foundation for **Quantitative Research** and **Quantitative Development** through **Algorithms**, **Mathematics**, **Machine Learning**, and **High-Performance Software Engineering**.
 
-Currently exploring the intersection of **Computer Systems**, **Statistical Learning**, and **Financial Markets**.
+Interested in building software and quantitative models where **Algorithms**, **Computer Systems**, and **Financial Markets** intersect.
 
 ---
 
